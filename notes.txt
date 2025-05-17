@@ -1,0 +1,44 @@
+Pertemuan 1 :
+Pada Praktikum pertemuan ke 1, saya mempelajari materi Konsep Thread dan Multi-Thread pada Python.
+Thread adalah unit terkecil dalam proses eksekusi program. Sebuah program biasanya memiliki setidaknya 
+satu thread utama (main thread) yang digunakan untuk menjalankan logika utama aplikasi.
+
+Pada Praktikum tersebut, saya tidak memiliki kesusahan untuk menjalankan dan menuntaskan tugas tugas
+pada praktikum tersebut, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
+
+Pertemuan 2 :
+Pada Praktikum pertemuan ke 2, saya mempelajari materi Konsep dasar API dan JSON.
+Apa itu API (Application Programming Interface)? API adalah antarmuka yang memungkinkan
+dua aplikasi atau sistem berbeda untuk berkomunikasi dan saling bertukar data.
+
+Pada Praktikum tersebut, saya tidak memiliki kesusahan untuk menjalankan dan menuntaskan tugas tugas pada praktikum
+tersebut, sama seperti pada Pertemuan ke 1, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
+
+Pertemuan 3 :
+Pada Praktikum pertemuan ke 3, saya mempelajari materi Pengenalan Framework pada Python.
+Apa itu Framework pada python. Framework adalah kerangka kerja yang menyediakan fondasi dan
+seperangkat alat bantu bagi pengembang untuk membangun aplikasi secara lebih efisien dan terstruktur.
+
+Pada Praktikum tersebut, saya tidak memiliki kerumitan untuk menyelesaikan tugas tugas pada praktikum tersebut,
+sama seperti pada Pertemuan ke 2, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
+
+Pertemuan 4 :
+Pada Praktikum pertemuan ke 4, saya mempelajari materi Mengenal dan Membuat Flask. Apa itu Flask pada python.
+Flask adalah framework web Python yang ringan, dibangun di atas Werkzeug (WSGI toolkit) dan Jinja2 (template engine).
+
+Pada Praktikum tersebut, saya tidak memiliki kesusahan dalam menyelesaikan tugas tugas pada praktikum tersebut,
+sama seperti pada Pertemuan ke 3, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
+
+Praktikum 5 :
+Pada Praktikum pertemuan ke 5, saya mempelajari materi Pembuatan API Endpoint dengan flask. Apa itu API pada python.
+Application Programming Interface (API) adalah cara komunikasi suatu perangkat menggunakan permintaan (request) dan respons (response).
+
+Pada Praktikum tersebut, saya tidak memiliki kerumitan dalam menyelesaikan tugas tugas pada praktikum tersebut,
+sama seperti pada Pertemuan ke 4, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
+
+Pertemuan 6 :
+Pada Praktikum pertemuan 6 ini, saya mempelajari materi Pemrogramman Visual berbasis python PyQT. PyQt adalah satu set binding (plugin/library) Python untuk framework
+aplikasi Qt yang dikembangkan oleh perusahaan Qt. PyQt dapat berjalan di semua platform yang didukung oleh Qt, termasuk Windows, macOS, Linux, iOS, dan Android.
+
+Pada Praktikum tersebut, saya tidak memiliki kerumitan dalam menyelesaikan tugas tugas pada praktikum tersebut,
+sama seperti pada Pertemuan ke 5, dikarenakan saya diajari dengan baik dan benar oleh kaka kaka disini
